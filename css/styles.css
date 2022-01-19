@@ -177,6 +177,7 @@ span:hover {
 .galery .galery__img {
   width: 500px;
   height: 350px;
+  object-fit: cover;
 }
 .galery .img-opacity {
   opacity: 0;
